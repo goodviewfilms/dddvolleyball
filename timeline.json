@@ -2,7 +2,7 @@
   {
   "id": 0,
   "name": "DUK DUK is Born",
-  "category": "Milestone",
+  "category": "education",
   "placeName": "Université de Grenoble (Stendhal)",
   "country": "France",
   "startDate": "2010-08",    
@@ -18,7 +18,7 @@
 {
   "id": 1,
   "name": "A New Home",
-  "category": "Standard",
+  "category": "work",
   "placeName": "Nagoya University of Foreign Studies",
   "country": "Japan",
   "startDate": "2012-09",
@@ -40,7 +40,7 @@
 {
   "id": 2,
   "name": "Master degree in Computer Science",
-  "category": "Standard",
+  "category": "education",
   "placeName": "Université de Grenoble",
   "country": "France",
   "startDate": "2016-09",
