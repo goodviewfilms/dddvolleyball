@@ -1,16 +1,13 @@
 [
   {
   "id": 0,
-  "name": "Bachelor degree in Japanese and English languages",
+  "name": "2008 - DUK DUK is Born",
   "category": "Education",
   "placeName": "Université de Grenoble (Stendhal)",
   "country": "France",
   "startDate": "2010-09",
   "endDate": "2013-07",
-  "description":["Japanese (Kanji, Grammar, History, Language practise)",
-    "English (British and American history, Grammar, Language practise)",
-   "Economy, Accounting, Law, International law",
-   "Introduction to computer Science (Javascript, Adobe Flash Player, Microsoft Access, CMS)"],
+  "description":["From the ashes the brain child of Matt Penke & Daryl Wheeler. The infamous Logo is introduced to the world of volleyball."],
   "skills": [
     "english",
     "japanese",
@@ -20,13 +17,13 @@
 },
 {
   "id": 1,
-  "name": "Exchange Student",
+  "name": "09 - A New Home",
   "category": "Education",
   "placeName": "Nagoya University of Foreign Studies",
   "country": "Japan",
   "startDate": "2012-09",
   "endDate": "2013-07",
-  "description": ["Japanese language classes JLPT N3, JLPT N2",
+  "description": ["DUK DUK DAZE Volleyball moves to it's current home in Hidden Valley Park located at the heart of New Hope Minnesota.",
   "Tourism & Hospitality",
   "Economy",
   "British law",
@@ -188,13 +185,13 @@
 },
 {
   "id": 10,
-  "name": "Interactivity with JavaScript",
+  "name": "2020 - The Pandemic",
   "category": "Education",
   "placeName": "Coursera",
   "country": "France",
   "startDate": "2016-01-24",
   "endDate": "2016-02-17",
-  "description": "Basics of Javascript language",
+  "description": "As the COVID-19 impacts the world the DUK DUK Crew make the hardest decision and postpones DDD until 2021.",
   "skills": [
     "Javascript"
   ]
