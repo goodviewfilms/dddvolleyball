@@ -23,11 +23,11 @@
   "country": "Japan",
   "startDate": "2012-09",
   "endDate": "2013-07",
-  "description": "DUK DUK DAZE Volleyball moves to it's current home in Hidden Valley Park located at the heart of New Hope Minnesota.",              
+  "description": ["DUK DUK DAZE Volleyball moves to it's current home in Hidden Valley Park located at the heart of New Hope Minnesota.",              
    "Tourism & Hospitality",
   "Economy",
   "British law",
-  "Sociology",
+  "Sociology"],
   "skills": [
     "english",
     "japanese",
