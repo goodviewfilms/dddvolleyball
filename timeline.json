@@ -145,7 +145,7 @@
   "placeName": "Coursera",
   "country": "France",
   "startDate": "2018-10",
-  "endDate": "2018-11-29",
+  "endDate": "2018-11",
   "description": "Courses : What is Data Science, Open tools for Data Science, Data Science Methodology, Databases and SQL for Data Science",
   "skills": [
     "Python",
@@ -159,8 +159,8 @@
   "category": "Education",
   "placeName": "Coursera",
   "country": "France",
-  "startDate": "2018-11-20",
-  "endDate": "2019-01-25",
+  "startDate": "2018-11",
+  "endDate": "2019-01",
   "description": "Python for Data Science, Data Analysis with Python, Data Visualization with Python",
   "skills": [
     "Python",
@@ -176,8 +176,8 @@
   "category": "Education",
   "placeName": "Coursera",
   "country": "France",
-  "startDate": "2018-12-23",
-  "endDate": "2019-01-08",
+  "startDate": "2019-04",
+  "endDate": "2019-07",
   "description": "Course about the process of managing data analysis and EDA",
   "skills": [
     "Data Analysis"
@@ -189,11 +189,24 @@
   "category": "Education",
   "placeName": "Coursera",
   "country": "France",
-  "startDate": "2016-01-24",
-  "endDate": "2016-02-17",
+  "startDate": "2020-02",
+  "endDate": "2020-12",
   "description": "As the COVID-19 impacts the world the DUK DUK Crew make the hardest decision and postpones DDD until 2021.",
   "skills": [
     "Javascript"
   ]
-}
+},
+  {
+  "id": 11,
+  "name": "The Return of DUK DUK",
+  "category": "Education",
+  "placeName": "Coursera",
+  "country": "France",
+  "startDate": "2021-01",
+  "endDate": "2021-04",
+  "description": "DUK DUK Returns to the court after a COVID Postponement.",
+  "skills": [
+    "Javascript"
+  ]
+},
 ]
