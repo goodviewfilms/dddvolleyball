@@ -1,7 +1,23 @@
 [
-  {
+    {
   "id": 0,
   "name": "DUK DUK is Born",
+  "category": "Education",
+  "placeName": "Université de Grenoble (Stendhal)",
+  "country": "France",
+  "startDate": "2008",
+  "endDate": "2008",
+  "description":["From the ashes the brain child of Matt Penke & Daryl Wheeler. The infamous Logo is introduced to the world of volleyball."],
+  "skills": [
+    "english",
+    "japanese",
+    "law",
+    "economics"
+  ]
+},
+  {
+  "id": 1,
+  "name": "DUK DUK",
   "category": "Education",
   "placeName": "Université de Grenoble (Stendhal)",
   "country": "France",
@@ -15,9 +31,8 @@
     "economics"
   ]
 },
-  
   {
-  "id": 1,
+  "id": 2,
   "name": "DUK DUK find a New Home",
   "category": "Work",
   "placeName": "Université de Grenoble (Stendhal)",
